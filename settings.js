@@ -14,9 +14,9 @@ const { ownername, botname, footer, ig, region, myweb, packname, author, session
 
 //customize settings\\
 global.APIKeys = {'https://zenzapis.xyz': YOUR_API_KEY } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
-global.owner = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.premium = ['94761539856'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
-global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
+global.owner = ['923477008403', '923120443386'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.premium = ['923477008403', '923120443386'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
+global.ownernomer = '923120443386' // Add Your number Eg: ['YOUR NUMBER']
 // we got your name in your whatsapp
 
 
@@ -25,16 +25,16 @@ global.ownernomer = '94761539856' // Add Your number Eg: ['YOUR NUMBER']
 
 //Don't edit enithing\\
 global.APIs = APIs
-global.ownername = ownername
-global.botname = botname
+global.ownername = BABLI-MD
+global.botname = BABLI-MD
 global.footer = footer
-global.ig = ig
-global.region = region
-global.myweb = myweb
-global.packname = packname
-global.author = author
+global.ig = saeedx304
+global.region = Pakistan
+global.myweb = www.moviesmod.zip
+global.packname = BABLI
+global.author = BABLI
 global.sessionName = sessionName
-global.prefa = prefa 
+global.prefa = ! 
 global.sp = sp
 global.mess = mess
 global.sc = sc
@@ -53,10 +53,10 @@ global.rpg = {
    potionawal: 1
 }
 global.thumb = fs.readFileSync('./Media/gojo.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?script=welcome-logo&text=BABLI-MD&script=welcome-logo&text=BABLI-MD&imageoutput=true'
+global.fluming = 'https://flamingtext.com/net-fu/proxy_form.cgi?script=welcome-logo&text=BABLI-MD&script=welcome-logo&text=BABLI-MD&imageoutput=true'
+global.flarun = 'https://flamingtext.com/net-fu/proxy_form.cgi?script=welcome-logo&text=BABLI-MD&script=welcome-logo&text=BABLI-MD&imageoutput=true'
+global.flasmurf = 'https://flamingtext.com/net-fu/proxy_form.cgi?script=welcome-logo&text=BABLI-MD&script=welcome-logo&text=BABLI-MD&imageoutput=true'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)

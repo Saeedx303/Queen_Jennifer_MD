@@ -1,7 +1,7 @@
 # Queen_Jennifer_MD
 
 <p align="center">
-<img src="[https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg](https://i.ibb.co/nkhcxJV/images-2.jpg)" alt="ADE" width="350" high="350"/>
+<img src="[https://i.ibb.co/nkhcxJV/images-2.jpg](https://i.ibb.co/nkhcxJV/images-2.jpg)" alt="ADE" width="350" high="350"/>
 </p>
 
 ## If You Want Deploy This Bot or See Other Details

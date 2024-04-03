@@ -1,7 +1,7 @@
 # Queen_Jennifer_MD
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg" alt="ADE" width="350" high="350"/>
+<img src="[https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg](https://i.ibb.co/nkhcxJV/images-2.jpg)" alt="ADE" width="350" high="350"/>
 </p>
 
 ## If You Want Deploy This Bot or See Other Details
@@ -13,7 +13,7 @@
 - You can comment your {Ideas, quotations and Enithing} [`Go to discussion`](https://zeqanpx.github.io/Queen_Jennifer_MD)
 
 ### Thanks To
-
+- [`@Saeedx304/Babli`](https://github.com/saeedx304)
 - [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 - [`Alien-Alfa`](https://github.com/Alien-Alfa)
 - [`DGXeon`](https://github.com/DGXeon)

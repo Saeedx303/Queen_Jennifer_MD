@@ -13,7 +13,7 @@ const { ownername, botname, footer, ig, region, myweb, packname, author, session
 
 
 //customize settings\\
-global.APIKeys = {'https://zenzapis.xyz': YOUR_API_KEY } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
+global.APIKeys = {'https://zenzapis.xyz': KkcwKHj9D9rYJbp } //credit goes to sanzy yt, if api key expire, buy it and put it here?\\ https://zenzapis.xyz
 global.owner = ['923477008403', '923120443386'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
 global.premium = ['923477008403', '923120443386'] // Add Your number Eg: ['94761539856', 'YOUR NUMBER']
 global.ownernomer = '923120443386' // Add Your number Eg: ['YOUR NUMBER']
